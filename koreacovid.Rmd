@@ -1,7 +1,7 @@
 ---
 title: "covid 19"
 author: "Ruben Murillo Villa"
-date: "Summer 2022"
+date: "Summer 2022."
 output:
   html_document: default
   pdf_document: default
